@@ -2,7 +2,7 @@
 // @name         逸林广告屏蔽大师
 // @namespace    https://kihh.github.io/
 // @version      1.0.0
-// @description  屏蔽百度首页广告，百度翻译广告，
+// @description  屏蔽百度首页广告，百度翻译广告
 // @author       Kihh
 // @run-at document-body
 // @license GPL
